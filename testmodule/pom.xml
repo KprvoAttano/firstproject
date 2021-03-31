@@ -13,7 +13,7 @@
 
     <!-- Блок констант -->
     <properties>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <qulice.version>0.18.19</qulice.version>
         <qulice.ext.version>1.0-SNAPSHOT</qulice.ext.version>
